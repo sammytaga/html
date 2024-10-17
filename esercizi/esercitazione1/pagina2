@@ -1,1 +1,11 @@
-
+<! DOCTYPE html>
+‹codice html>
+‹meta set di caratteri= "utf-8">
+<testa>
+   ‹titolo>picasso‹/titolo>
+</testa>
+<corpo>
+   <immagine origine= "picasso3.jfif"larghezza="500"altezza= "600">
+   <UN href= "indice.html"›Ritorna alla homepage</UN>
+</ corpo>
+</codice html>
