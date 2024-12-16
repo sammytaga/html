@@ -1,6 +1,6 @@
 body {background: lightskyblue;}
 h1 {font-weight: bold; 
-    font-size: 36 px;
+    font-size: 36px;
     color: mediumblue;
     text-align: center; }
 h2 {font-wheight: bold;
@@ -8,9 +8,11 @@ h2 {font-wheight: bold;
     color: mediumblue
     text-align: center;}
 p {color:blue;
-   background-color:azure;
-   font-size:18;
-   text-align:justifiy;}
+   background-color: azure;
+   font-size: 18px;
+   text-align: justifiy;}
+
+
 
 
    
